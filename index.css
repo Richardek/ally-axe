@@ -1,0 +1,147 @@
+body
+{
+background: url('https://d1yn1kh78jj1rr.cloudfront.net/image/preview/46pQ0IjYlik7c8fv2/graphicstock-health-and-fitness-concept-with-pale-blue-dumbbells-and-tape-measure-on-white-distressed-wood-table-background_r2GZRtuix_SB_PM.jpg')  fixed;
+background-size:cover; 
+
+}
+
+* body{
+  box-sizing: border-box;
+}
+
+
+header
+{
+  margin-top: 0px; 
+  text-align: center;
+  background-color: #EEEEEE;
+  border-radius: 3px;
+  border-top: #dddd;
+  border-bottom:#dddd;
+  margin-bottom: 0;
+
+}
+
+.container{
+  height: 100%;
+} 
+
+h2{
+  text-align: center;
+}
+  h2 span {
+  font-size: 25px; 
+  margin-right:auto; 
+    background-color: #EEEEEE;
+  border-radius: 3px;
+  border-top: #dddd;
+  border-bottom:#dddd;
+
+ }
+
+h3 {
+  display: block;
+  font-size: 25px; 
+  margin-top: 10px; 
+  margin-bottom: 25px;
+  text-align: center; 
+  background-color: #EEEEEE;
+  border-radius: 3px;
+  border-top: #dddd;
+  border-bottom:#dddd;
+}
+
+h4{
+  text-align: center;
+  margin-top: 50px; 
+}
+h4 span {
+  
+  font-size: 25px; 
+  background-color: #EEEEEE;
+  border-radius: 3px;
+  border-top: #dddd;
+  border-bottom:#dddd;
+}
+
+button{
+  display:block;
+  margin-top:0px;
+  margin-right:auto;
+  margin-left: auto; 
+  height: 80px;
+  width:  200px; 
+  border-radius: 4px; 
+	font-size: 1.5em;
+
+}
+
+
+
+.js-start-button{
+  margin-top: 100px; 
+ 
+}
+
+
+
+
+.container{
+  padding: 30px;
+  margin-right: auto;
+  margin-left:auto;   
+ border-width: 3px; 
+}
+fieldset {
+
+	border: none;
+}
+
+.quest{
+  margin:0 auto;
+  width: 50%;
+  }
+label {
+  font-size: 1.5em;
+   margin-top: 30px;
+   margin-bottom: 20px; 
+  display: block; 
+} 
+
+label span{
+  background-color: #EEEEEE; 
+}
+
+
+.question-count, .score-count {
+	display: inline-block;
+  margin-top: 100px;
+  margin-bottom: 100px; 
+	font-size: 1.6em;
+}
+.question-count {
+  position: absolute;
+  top: 0px; 
+}
+.score-count{
+  position: absolute;
+  top: 0px;
+  right: 75px;
+}
+.status-bar span{
+  background-color: #EEEEEE;
+}
+
+
+
+
+.pic{
+  display: block;
+  height: 300px;
+  width: 300px;
+  margin-right:auto;
+  margin-left: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
